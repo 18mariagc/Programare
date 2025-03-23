@@ -4,7 +4,7 @@ has to be able to display all possible values within an int type variable.*/
 #include <iostream>
 using namespace std;
 
-void ft_putchar(char c)
+void ft_putchar(char c)//functia asta nu trebuia 
 {
     cout << c;
 }
