@@ -7,7 +7,7 @@ using namespace std;
 
 void ft_print_comb2(void)
 {
-    for (int i = 0; i <= 9; i++)
+    for (int i = 1; i <= 9; i++)
      {
         for (int j = i; j <= 9; j++) 
         {
