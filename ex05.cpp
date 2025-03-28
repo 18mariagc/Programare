@@ -10,7 +10,7 @@ void ft_print_comb(void)
 {
     
     
-    for (int i = 0; i <= 9; i++) //alegem prima cifra de la 0 la 9
+    for (int i = 1; i <= 9; i++) //alegem prima cifra de la 0 la 9
      {
         for (int j = i; j <= 9; j++) // alegem a doua cifra care trebuie sa fie cel putin egala cu prima
         {
